@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @abtialg .. A.Boukhatemi
-- 👀 I’m interested in developement of wed Application, desctop app with delphi and android app 
-- 🌱 I’m currently learning the ML kit
-- 💞️ I’m looking to collaborate on my self
+- 👋 Hi, I’m @abtialg .. A.Boukhatemi, PhD student in computer science in univ-Medea, Algeria
+- I'm working on UAVs and 6G cellular network,
+- 👀 I’m interested in developement of wed Application, desktop app with delphi and android app 
 - 📫 How to reach me : a.boukhatemi@gmail.com
 
 <!---
